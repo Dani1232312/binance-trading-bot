@@ -4,8 +4,8 @@ from binance import Client
 from BollingerBands import *
 
 
-api_key = "ZlfXtBHk2cyhpFJGatdPLHzU7WHbR8uvkYLvqUcetEuETfgTUiCsp5o4iMU1AyT4"
-api_secret = "tv0DViJB2DCGABLNfLKs5QQQsCzVfAn2R3GfVOja08aKwms06tnUEjFdc6iEv7NS"
+api_key = ""
+api_secret = ""
 client = Client(api_key, api_secret)
 symbol = False
 
